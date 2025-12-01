@@ -1,5 +1,4 @@
 
-### DATE: 02.05.2025
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
